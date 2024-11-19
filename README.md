@@ -107,60 +107,60 @@
 4. A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning. Yim, Junho et al. CVPR 2017
 5. Like What You Like: Knowledge Distill via Neuron Selectivity Transfer. Huang, Zehao & Wang, Naiyan. 2017
 6. Paraphrasing complex network: Network compression via factor transfer. Kim, Jangho et al. NeurIPS 2018
-7. VkD : Improving Knowledge Distillation using Orthogonal Projections. Roy Miles, Ismail Elezi, Jiankang Deng. CVPR 2024
-8. Understanding the Role of the Projector in Knowledge Distillation. Roy Miles, Krystian Mikolajczyk. AAAI 2024
-8. Knowledge transfer with jacobian matching. ICML 2018
-9. Self-supervised knowledge distillation using singular value decomposition. Lee, Seung Hyun et al. ECCV 2018
-10. Learning Deep Representations with Probabilistic Knowledge Transfer. Passalis et al. ECCV 2018
-11. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
-12. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
-13. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
-14. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
-15. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
-16. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019 [[code]][2.15]
-17. Feature-map-level Online Adversarial Knowledge Distillation. ICML 2020
-18. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
-19. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
-20. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
-21. Knowledge Distillation from Internal Representations. AAAI 2020
-22. Knowledge Flow:Improve Upon Your Teachers. ICLR 2019
-23. LIT: Learned Intermediate Representation Training for Model Compression. ICML 2019
-24. Improving the Adversarial Robustness of Transfer Learning via Noisy Feature Distillation. Chin, Ting-wu et al. arXiv:2002.02998
-25. Knapsack Pruning with Inner Distillation. Aflalo, Yonathan et al. arXiv:2002.08258
-26. Residual Knowledge Distillation. Gao, Mengya et al. arXiv:2002.09168
-27. Knowledge distillation via adaptive instance normalization. Yang, Jing et al. arXiv:2003.04289
-28. Bert-of-Theseus: Compressing bert by progressive module replacing. Xu, Canwen et al. arXiv:2002.02925 [[code]][2.27]
-29. Distilling Spikes: Knowledge Distillation in Spiking Neural Networks. arXiv:2005.00727
-30. Generalized Bayesian Posterior Expectation Distillation for Deep Neural Networks. Meet et al. arXiv:2005.08110
-31. Feature-map-level Online Adversarial Knowledge Distillation. Chung, Inseop et al. ICML 2020
-32. Channel Distillation: Channel-Wise Attention for Knowledge Distillation. Zhou, Zaida et al. arXiv:2006.01683 [[code]][2.30]
-33. Matching Guided Distillation. ECCV 2020 [[code]][2.31]
-34. Differentiable Feature Aggregation Search for Knowledge Distillation. ECCV 2020
-35. Interactive Knowledge Distillation. Fu, Shipeng et al. arXiv:2007.01476
-36. Feature Normalized Knowledge Distillation for Image Classification. ECCV 2020 [[code]][2.34]
-37. Layer-Level Knowledge Distillation for Deep Neural Networks. Li, Hao Ting et al. Applied Sciences, 2019
-38. Knowledge Distillation with Feature Maps for Image Classification. Chen, Weichun et al. ACCV 2018
-39. Efficient Kernel Transfer in Knowledge Distillation. Qian, Qi et al. arXiv:2009.14416
-40. Collaborative Distillation in the Parameter and Spectrum Domains for Video Action Recognition. arXiv:2009.06902
-41. Kernel Based Progressive Distillation for Adder Neural Networks. Xu, Yixing et al. NeurIPS 2020
-42. Feature Distillation With Guided Adversarial Contrastive Learning. Bai, Tao et al. arXiv:2009.09922
-43. Pay Attention to Features, Transfer Learn Faster CNNs. Wang, Kafeng et al. ICLR 2019
-44. Multi-level Knowledge Distillation. Ding, Fei et al. arXiv:2012.00573
-45. Cross-Layer Distillation with Semantic Calibration. Chen, Defang et al. AAAI 2021 [[code]][2.44]
-46. Harmonized Dense Knowledge Distillation Training for Multi-­Exit Architectures. Wang, Xinglu & Li, Yingming. AAAI 2021
-47. Robust Knowledge Transfer via Hybrid Forward on the Teacher-Student Model. Song, Liangchen et al. AAAI 2021
-48. Show, Attend and Distill: Knowledge Distillation via Attention-­Based Feature Matching. Ji, Mingi et al. AAAI 2021 [[code]][2.47]
-49. MINILMv2: Multi-Head Self-Attention Relation Distillation for Compressing Pretrained Transformers. Wang, Wenhui et al. arXiv:2012.15828
-50. ALP-KD: Attention-Based Layer Projection for Knowledge Distillation. Peyman et al. AAAI 2021
-51. In Search of Informative Hint Points Based on Layer Clustering for Knowledge Distillation. Reyhan et al. arXiv:2103.00053
-52. Fixing the Teacher-Student Knowledge Discrepancy in Distillation. Han, Jiangfan et al. arXiv:2103.16844
-53. Student Network Learning via Evolutionary Knowledge Distillation. Zhang, Kangkai et al. arXiv:2103.13811
-54. Distilling Knowledge via Knowledge Review. Chen, Pengguang et al. CVPR 2021
-55. Knowledge Distillation By Sparse Representation Matching. Tran et al. arXiv:2103.17012
-56. Task-Oriented Feature Distillation. Zhang et al. NeurIPS 2020 [[code]][2.55]
-57. Adversarial Knowledge Transfer from Unlabeled Data. Gupta et al. ACM-MM 2020 [code](https://github.com/agupt013/akt)
-58. Knowledge Distillation as Efficient Pre-training: Faster Convergence, Higher Data-efficiency, and Better Transferability. He et al. CVPR 2020
-59. PDF-Distil: Including Prediction Disagreements in Feature-based Knowledge Distillation for Object Detection. Zhang et al. BMVC 2021 [code](https://github.com/ZHANGHeng19931123/MutualGuide)
+7. VkD : Improving Knowledge Distillation using Orthogonal Projections. Roy Miles, Ismail Elezi, Jiankang Deng. CVPR 2024 [[code]][2.7]
+8. Understanding the Role of the Projector in Knowledge Distillation. Roy Miles, Krystian Mikolajczyk. AAAI 2024 [[code]][2.8]
+9. Knowledge transfer with jacobian matching. ICML 2018
+10. Self-supervised knowledge distillation using singular value decomposition. Lee, Seung Hyun et al. ECCV 2018
+11. Learning Deep Representations with Probabilistic Knowledge Transfer. Passalis et al. ECCV 2018
+12. Variational Information Distillation for Knowledge Transfer. Ahn, Sungsoo et al. CVPR 2019
+13. Knowledge Distillation via Instance Relationship Graph. Liu, Yufan et al. CVPR 2019
+14. Knowledge Distillation via Route Constrained Optimization. Jin, Xiao et al. ICCV 2019
+15. Similarity-Preserving Knowledge Distillation. Tung, Frederick, and Mori Greg. ICCV 2019
+16. MEAL: Multi-Model Ensemble via Adversarial Learning. Shen,Zhiqiang, He,Zhankui, and Xue Xiangyang. AAAI 2019
+17. A Comprehensive Overhaul of Feature Distillation. Heo, Byeongho et al. ICCV 2019 [[code]][2.15]
+18. Feature-map-level Online Adversarial Knowledge Distillation. ICML 2020
+19. Distilling Object Detectors with Fine-grained Feature Imitation. ICLR 2020
+20. Knowledge Squeezed Adversarial Network Compression. Changyong, Shu et al. AAAI 2020
+21. Stagewise Knowledge Distillation. Kulkarni, Akshay et al. arXiv: 1911.06786
+22. Knowledge Distillation from Internal Representations. AAAI 2020
+23. Knowledge Flow:Improve Upon Your Teachers. ICLR 2019
+24. LIT: Learned Intermediate Representation Training for Model Compression. ICML 2019
+25. Improving the Adversarial Robustness of Transfer Learning via Noisy Feature Distillation. Chin, Ting-wu et al. arXiv:2002.02998
+26. Knapsack Pruning with Inner Distillation. Aflalo, Yonathan et al. arXiv:2002.08258
+27. Residual Knowledge Distillation. Gao, Mengya et al. arXiv:2002.09168
+28. Knowledge distillation via adaptive instance normalization. Yang, Jing et al. arXiv:2003.04289
+29. Bert-of-Theseus: Compressing bert by progressive module replacing. Xu, Canwen et al. arXiv:2002.02925 [[code]][2.27]
+30. Distilling Spikes: Knowledge Distillation in Spiking Neural Networks. arXiv:2005.00727
+31. Generalized Bayesian Posterior Expectation Distillation for Deep Neural Networks. Meet et al. arXiv:2005.08110
+32. Feature-map-level Online Adversarial Knowledge Distillation. Chung, Inseop et al. ICML 2020
+33. Channel Distillation: Channel-Wise Attention for Knowledge Distillation. Zhou, Zaida et al. arXiv:2006.01683 [[code]][2.30]
+34. Matching Guided Distillation. ECCV 2020 [[code]][2.31]
+35. Differentiable Feature Aggregation Search for Knowledge Distillation. ECCV 2020
+36. Interactive Knowledge Distillation. Fu, Shipeng et al. arXiv:2007.01476
+37. Feature Normalized Knowledge Distillation for Image Classification. ECCV 2020 [[code]][2.34]
+38. Layer-Level Knowledge Distillation for Deep Neural Networks. Li, Hao Ting et al. Applied Sciences, 2019
+39. Knowledge Distillation with Feature Maps for Image Classification. Chen, Weichun et al. ACCV 2018
+40. Efficient Kernel Transfer in Knowledge Distillation. Qian, Qi et al. arXiv:2009.14416
+41. Collaborative Distillation in the Parameter and Spectrum Domains for Video Action Recognition. arXiv:2009.06902
+42. Kernel Based Progressive Distillation for Adder Neural Networks. Xu, Yixing et al. NeurIPS 2020
+43. Feature Distillation With Guided Adversarial Contrastive Learning. Bai, Tao et al. arXiv:2009.09922
+44. Pay Attention to Features, Transfer Learn Faster CNNs. Wang, Kafeng et al. ICLR 2019
+45. Multi-level Knowledge Distillation. Ding, Fei et al. arXiv:2012.00573
+46. Cross-Layer Distillation with Semantic Calibration. Chen, Defang et al. AAAI 2021 [[code]][2.44]
+47. Harmonized Dense Knowledge Distillation Training for Multi-­Exit Architectures. Wang, Xinglu & Li, Yingming. AAAI 2021
+48. Robust Knowledge Transfer via Hybrid Forward on the Teacher-Student Model. Song, Liangchen et al. AAAI 2021
+49. Show, Attend and Distill: Knowledge Distillation via Attention-­Based Feature Matching. Ji, Mingi et al. AAAI 2021 [[code]][2.47]
+50. MINILMv2: Multi-Head Self-Attention Relation Distillation for Compressing Pretrained Transformers. Wang, Wenhui et al. arXiv:2012.15828
+51. ALP-KD: Attention-Based Layer Projection for Knowledge Distillation. Peyman et al. AAAI 2021
+52. In Search of Informative Hint Points Based on Layer Clustering for Knowledge Distillation. Reyhan et al. arXiv:2103.00053
+53. Fixing the Teacher-Student Knowledge Discrepancy in Distillation. Han, Jiangfan et al. arXiv:2103.16844
+54. Student Network Learning via Evolutionary Knowledge Distillation. Zhang, Kangkai et al. arXiv:2103.13811
+55. Distilling Knowledge via Knowledge Review. Chen, Pengguang et al. CVPR 2021
+56. Knowledge Distillation By Sparse Representation Matching. Tran et al. arXiv:2103.17012
+57. Task-Oriented Feature Distillation. Zhang et al. NeurIPS 2020 [[code]][2.55]
+58. Adversarial Knowledge Transfer from Unlabeled Data. Gupta et al. ACM-MM 2020 [code](https://github.com/agupt013/akt)
+59. Knowledge Distillation as Efficient Pre-training: Faster Convergence, Higher Data-efficiency, and Better Transferability. He et al. CVPR 2020
+60. PDF-Distil: Including Prediction Disagreements in Feature-based Knowledge Distillation for Object Detection. Zhang et al. BMVC 2021 [code](https://github.com/ZHANGHeng19931123/MutualGuide)
 
 ### Graph-based
 
@@ -930,3 +930,5 @@ Contact: Yuang Liu (frankliu624![](https://res.cloudinary.com/flhonker/image/upl
 [18.32]: http://zhiqiangshen.com/projects/LS_and_KD/index.html  
 [2.55]: https://github.com/ArchipLab-LinfengZhang/Task-Oriented-Feature-Distillation
 [19.10]: https://github.com/roymiles/ITRD
+[2.7]: https://github.com/roymiles/VkD
+[2.8]: https://github.com/roymiles/Simple-Recipe-Distillation
